@@ -27,5 +27,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "moment": "^2.24.0",
+    "react-pretty-numbers": "^3.0.0",
+    "react-redux": "^7.0.3",
+    "react-select": "^3.0.4",
+    "redux": "^4.0.1",
+    "redux-devtools": "^3.5.0",
+    "redux-thunk": "^2.3.0"
   }
 }
